@@ -7,15 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeelabh&label=Profile%20views&color=0e75b6&style=flat" alt="neeelabh" /> </p>
 
-- 🔭 I’m currently working on **Youtube Comments sentiment analysis**
+- 🔭 I’m currently working on **Generative Music Transformer**
 
-- 🌱 I’m currently learning **Deep Learning , Open CV , Pandas , AWS , Flask**
+- 🌱 I’m currently learning **Deep Learning , Transformers , Tensorflow , AWS , Pytorch**
 
-- 👯 I’m looking to collaborate on **Data Science and Analytics related projects**
-
-- 🤝 I’m looking for help with **Chest x-ray Diagnosis generator**
-
-- 💬 Ask me about **Python , NLP , Llama-index , Langchain**
+- 👯 I’m looking to collaborate on **Data Science and Artificial Intelligence related projects**
 
 - 📫 How to reach me **neelabhmkd@gmail.com**
 
