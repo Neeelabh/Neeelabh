@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Generative Music Transformer**
 
-- 🌱 I’m currently learning **Deep Learning , Transformers , Tensorflow , AWS , Pytorch**
+- 🌱 I’m currently learning **Deep Learning , Transformers , Tensorflow , AWS , Pytorch , Big Data**
 
 - 👯 I’m looking to collaborate on **Data Science and Artificial Intelligence related projects**
 
